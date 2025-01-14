@@ -6,12 +6,12 @@ I'am thrilled to unveil OneConnect, an Android platform designed to foster a com
 
 
 🌟 OneConnect Highlights:
-->Verified donation posts to ensure authenticity\n
-->Option for anonymous donations\n
-->Real-time donation tracking for transparency\n
-->A central fund to support victims of disasters\n
-->Admin chat for user support\n
-->Donation history and a leaderboard for top donors\n
+1. Verified donation posts to ensure authenticity
+2. Option for anonymous donations
+3. Real-time donation tracking for transparency
+4. A central fund to support victims of disasters
+5. Admin chat for user support
+6. Donation history and a leaderboard for top donors
 
 💻 Tech Stack:
 Frontend: Flutter & Dart
